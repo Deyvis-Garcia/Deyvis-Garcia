@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Deyvis Garcia
 
 <p align="center">
-  <img src="portada_git.png" width="400px" alt="Deyvis Garcia - Perfil Profesional"/>
+  <img src="portada_github.PNG" width="400px" alt="Deyvis Garcia - Perfil Profesional"/>
 </p>
 
 🎓 Estudiante de **Desarrollo de Sistemas de Información** en el Instituto IDAT (San Juan de Miraflores, Perú).  
